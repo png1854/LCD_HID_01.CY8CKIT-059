@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|8b86d0b0-56c6-4b3b-a75d-0b51c43637ac
+D:\Users\Hiro\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|60c2aa2d-45af-42cb-8f3d-67f8104cc922
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|655ff4fa-b765-4f74-bb98-108a1126c578
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|3ab271f6-39f5-4420-b5a3-6cf513194b6a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|5eec5f31-b0aa-485c-9e6a-d36030759b03
+D:\Users\Hiro\OneDrive\Documents\PSoC\CY8CKIT-059\LCD_HID_01\LCD_HID_01.cydsn\LCD_HID_01.cyprj|ac14cc14-e1b1-418c-b6f8-b1fb4863b7ac
